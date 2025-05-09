@@ -5,7 +5,8 @@ Guess the number according to the hints provided on the screen.
 
 ## Demo
 
-https://nursaadet.github.io/DOM-Proje-Guess-Number/
+https://nursaadet.github.io/Guess-Number/
+
 
 ## Example Outcome
 
